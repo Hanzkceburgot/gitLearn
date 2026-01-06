@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-nuh hello
-=======
-hello tooooo
->>>>>>> stag
+hello
